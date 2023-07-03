@@ -22,7 +22,7 @@ bash MTAG_COMBINE_SEX.sh
 # 3. Run MTAG to conduct meta-analysis across four income measures 
 ############################################################################
 
-bash MTAG_COMBINE_SEX.sh
+bash MTAG_ALL.sh
 
 
 
